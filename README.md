@@ -45,6 +45,12 @@ npm run build
 npm run test:unit
 ```
 
+### Run Unit Tests with [Vitest](https://vitest.dev/) with Coverage enabled
+
+```sh
+npx vitest --coverage
+```
+
 ### Lint with [ESLint](https://eslint.org/)
 
 ```sh
